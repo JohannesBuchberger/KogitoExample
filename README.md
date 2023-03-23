@@ -1,3 +1,11 @@
+# USAGE
+
+You can import the postman-collection.json to have an example of requests that can be sent to the Kogito endpoints
+
+This repo implements this guide with minor changes: https://quarkus.io/guides/kogito
+
+The application requires a maven install
+
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
